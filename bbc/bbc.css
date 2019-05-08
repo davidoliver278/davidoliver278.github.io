@@ -1,0 +1,683 @@
+
+                /* Topbar Section Starts */
+
+                #topbar{
+                    width: 1000px;
+                    margin: 0 auto;
+                    height:40px;
+                    
+                }
+
+                body {
+                    margin: 0px;
+                    padding: 0px;
+                    font-family:Helvetica,sans-serif
+                }
+
+                #logo {
+                    margin-top:8px;
+                    width: 100px;
+                    float: left;
+                    margin-right: 8px;
+
+                }
+
+                .topbar-section {
+                    float: left;
+                    border-left: 1px #cccccc solid;
+                    height:100%;
+                }
+
+                #signin-image {
+                    width: 25px;
+                    margin: 10px 15px;
+                    float: left;
+                }
+
+                .nav-text {
+                    font-weight: bold;
+                    font-size: 90%;
+                    position: relative;
+                    top:14px;
+                }
+
+                #curved-box {
+                    position: relative;
+                    bottom:0.6px;
+                    left: 60px;
+                    float: left;
+                }
+
+                #news {
+                    float: left;
+                    position: relative;
+                    left: 70px;
+
+                }
+
+                .topbar-menu {
+                    position: relative;
+                    left: 70px; 
+
+
+
+                }
+
+                .sports {
+                    position: relative;
+                    left:130px;
+                    top: -16px;
+                    font-weight: bold;
+                    font-size: 90%;
+
+
+                }
+
+                .sports-left-border {
+                    float: left;
+                    border-left: 1px #cccccc solid;
+                    height: 100%;
+
+                }
+
+                .sports-padding {
+                    padding-left: 10px;
+                    position: relative;
+                    top:14px;
+                    margin-right: 10px;
+                }
+
+                #search-bar {
+                    position: relative;
+                    left: 180px;
+                    border-left: 1px #cccccc solid;
+                    height: 100%;
+                    float: left;
+                    top: -16px;
+
+                }
+
+                #input-padding {
+                    position: relative;
+                    top: 8px;
+                    margin: 3px 10px;
+
+                }
+
+                input {
+                    float: left;
+                    font-weight: bold;
+                    font-size: 14px;
+                    background-color: #E4E4E4;
+                    margin: 10px;
+
+                }
+
+                #magnifying-glass {
+                    float: left;
+                    height: 22px;
+                    position: relative;
+                    right: 11px;
+                    top: 10px;
+                }
+
+                /* Topbar Section Ends */
+
+                /* Redbar Section Starts */
+
+                #redbar {
+                    width: 100%;
+                    height: 60px;
+                    background-color: #BB1919;
+                }
+
+
+
+                #find-local-news{
+                    color: #FFFFFF;
+                    text-decoration: none;
+                    float: right;
+                    position: relative;
+                    right: 137px;
+                    top: 14px;
+                    font-size: 18px;
+                    border: 1px solid rgba(228, 228, 228,0.4 );
+                    padding: 5px;
+                    padding-left: 10px;
+                    padding-right: 18px;
+                }
+
+                a#find-local-news:hover{
+                    text-decoration: underline;
+                }
+
+                /* Redbar Section Ends */
+
+                /* Nav Menu Section Starts */
+
+                #nav-menu {
+                    height: 35px;
+                    width: 100%;
+                    background-color:#A91717;
+                }
+
+                #navmenu-warpper {
+                    height: 35px;
+                    width: 1000px;
+                    margin: 0 auto;
+                    float: left;
+                    position: relative;
+                    left: 175px;
+                }
+
+                .categories{
+                    color: #ffffff;
+                    text-decoration: none;
+                    position: relative;
+                    top:10px;
+                    font-size: 15px;
+                    border-right: 1px solid rgba(228, 228, 228,0.4 );
+                    padding-right: 10px;
+                    padding-left: 10px;
+                    float: left;
+                }
+
+                #tech-border {
+                    border-bottom: 5px solid white;
+                    padding-bottom: 4px;
+
+                }
+
+                #categories-2 {
+                     color: #ffffff;
+                    text-decoration: none;
+                    position: relative;
+                    top:10px;
+                    font-size: 15px;
+                    padding-right: 10px;
+                    padding-left: 10px;
+                }
+
+                #arrow {
+                    float: left;
+                    position: relative;
+                    left: 89px;
+                    top: 5px;
+
+                }
+
+                  /* Nav Menu Section Ends */
+
+                /* Content Area Starts */
+
+                #content-wrapper {
+                    width: 1000px;
+                    height: 100%;
+                    margin: 0 auto;
+                    position: relative;
+                    top: -10px;
+                    
+                    
+
+
+
+
+                }
+
+                #technology-article {
+                    color: rgb(90, 90, 90);
+                    width: 66%;
+                     border-right: 1px solid #cccccc;
+                    padding-right: 20px;
+
+                    height: 1000px;
+
+
+
+                }
+
+                #technology {
+                    font-weight: 100; 
+                    color: #4F4F4F;
+                    font-size: 20px;
+                    border-bottom: 3px solid #BB1919;
+                    width: 101px;
+
+                }
+
+                .asda-bug{
+                    text-decoration: none;
+                    color: rgb(104, 104, 104);
+    ;
+
+                }
+
+                  .asda-bug-default {
+                    text-decoration: none;
+                    color: black;
+    ;
+
+                }
+
+                .asda-bug-default:hover{
+                    color: #1167A8;
+                }
+
+                  .asda-bug:hover{
+                    color: #1167A8;
+                }
+
+                #asda-img {
+                    float: right;
+                }
+
+                #two-hours {
+                    font-size: 13px;
+                    color:rgb(90, 90, 90);
+                    border-right: 1px solid rgba(90, 90, 90, 0.5);
+                    padding-right: 5px;
+                    float: left;
+                    position: relative;
+                    left: 20px;
+
+
+
+                }
+
+
+
+                a{
+                    text-decoration: none;
+                }
+
+                .tech {
+                    font-size: 13px;
+                    float: left;
+                    padding-left: 5px;
+                    color: #BB1919;
+                    position: relative;
+                    left: 20px;
+                }
+
+                #redline {
+                    position: relative;
+                    top:30px;
+                    right: 149px;
+                }
+
+                .surveillance-article {
+                    font-size: 14px;
+                    float: left;
+                }
+
+                .ebay-article {
+                    font-size: 14px;
+                    float: left;
+                    position: relative;
+                    bottom: 20px;
+
+                }
+
+                /* Miniature area starts */
+
+                #miniature-section {
+                    width: 66%;
+                    height: 1000px;
+                    position: relative;
+                    bottom: 655px;
+                    border-top: 1px solid #cccccc;
+                    
+                }
+
+
+                #robot-thumbnail {
+                    
+                    position: relative;
+                    top: 15px;
+                    float: left;
+    
+}
+
+
+
+/* Twitter article starts */
+
+.twitter-article-headline {
+    float: left;
+    position: relative;
+    top: 125px;
+    right: 450px;
+    font-size: 20px;
+    
+}
+
+#twitter-article-body {
+    
+    float: left;
+    font-size: 14px;
+    color: rgb(104, 104, 104);
+    position: relative;
+    bottom: 115px;
+    left: 5px;
+}
+
+#one-hour {
+     font-size: 13px;
+     color:rgb(90, 90, 90);
+     border-right: 1px solid rgba(90, 90, 90, 0.5);
+     padding-right: 5px;
+     float: left;
+     position: relative;
+     right: 198px;
+    bottom: 13px;
+}
+
+#onehour-hr{
+    border-top:1px solid #BB1919;
+    width: 35px;
+    float: left;
+    position: relative;
+    right: 280px;
+    top: 15px;
+   
+}
+
+.tech-two {
+    float: left;
+    position: relative;
+    right: 230px;
+    text-decoration: none;
+    color: #BB1919;
+    font-size: 13px;
+    bottom: 13px;
+    
+    
+}
+
+/* Twitter article ends */
+
+/* Drone article starts */
+
+#video-thumbnail {
+   
+    position: relative;
+    left: 5px;
+    float: left;   
+    
+}
+
+#drone-article {
+    border-left: 1px solid #cccccc;
+    height: 300px;
+    width: 235px;
+    float: left;
+    position: relative;
+    left: 15px;
+    top: 15px;
+    
+    
+}
+
+.drone-article-headline {
+    float: left;
+    font-size: 20px;
+    position: relative;
+    left: -145px;
+    bottom: 175px;
+    color: black;
+}
+
+.drone-article-body {
+    font-size: 14px;
+    float: left;
+    color: rgb(104, 104, 104);
+   position: relative;
+    left: 29px;
+    bottom: 201px;
+    
+
+}
+
+.grey-texts {
+     font-size: 13px;
+     color:rgb(90, 90, 90);
+     border-right: 1px solid rgba(90, 90, 90, 0.5);
+     padding-right: 5px;
+     float: left;
+}
+
+.fortyfour-minutes {
+    position: relative;
+    right: 200px;
+    bottom: 101px;
+}
+
+#fortyfour-hr {
+    border-top:1px solid #BB1919;
+    width: 35px;
+    float: left;
+    position: relative;
+    right: 305px;
+    bottom: 73px;
+}
+
+.technology-default {
+    float: left;
+    text-decoration: none;
+    color: #BB1919;
+    font-size: 13px; 
+}
+
+.technology-1 {
+    position: relative;
+    right: 230px;
+    bottom: 100px;
+}
+
+/* Drone article ends */
+
+/* Miniature asid section starts */
+
+#miniature-asid {
+    width: 26%;
+    height: 500px;
+    float: right;
+    position: relative;
+    bottom: 415px;
+    border-left: 1px solid #cccccc;
+}
+
+.asid-article-headline {
+    font-size: 20px;
+    color: black;
+    float: left;
+    position: relative;
+    bottom: 20px;
+    padding-left: 15px;
+  
+}
+
+.border-bottom {
+    color: rgba(90, 90, 90, 0.5);
+    position: relative;
+    top: 25px;
+    width: 150px;
+    padding-right: 10px;
+    left: 8px;
+
+}
+
+.asid-article-headline-2 {
+    float: left;
+    position: relative;
+    top:8px;
+    padding-left: 15px;
+    
+    
+}
+
+
+.border-bottom-2{
+    
+     color: rgba(90, 90, 90, 0.5);
+    position: relative;
+    top: 65px;
+    width: 150px;
+    padding-right: 10px;
+    left: 8px;
+}
+
+.asid-article-headline-3 {
+    float: left;
+    position: relative;
+    top: 50px;
+    padding-left: 15px;
+}
+
+#one-hour-2 {
+    
+    float: left;
+    position: relative;
+    bottom: 250px;
+    left: 35px;
+}
+
+#one-hour-3 {
+     float: left;
+    position: relative;
+    bottom: 105px;
+    right: 34px;
+}
+
+#one-hour-4 {
+     float: left;
+    position: relative;
+    bottom: 10px;
+    right: 34px;
+    left: 29px;
+}
+
+#top-headline {
+    
+    float: left;
+    font-size: 24px;
+    color: rgb(64, 64, 64);
+    font-weight: 400;
+    font-family: Helmet, Freesans;
+    position: relative;
+    bottom: 20px;
+    left: -25px;
+    
+}
+
+/* Sidebar arear */
+
+#sidebar {
+    
+    width: 34%;
+    height: 1000px;
+    padding:40px;
+    margin-left: 20px;
+    float: right;
+    position: relative;
+    left: 500px;
+    bottom: 807px;
+}
+
+.article-side-image {
+    
+    float: left;
+    position: relative;
+    right: 25px;
+    bottom:20px;
+   
+}
+
+
+.watch-listen-link{
+    
+    font-size: 18px;
+    font-weight: bold;
+    padding-left: 10px;
+    float: right;
+  
+
+}
+
+.grey-texts-sidebar {
+     font-size: 13px;
+     color:rgb(90, 90, 90);
+     padding-right: 5px;
+    padding-left: 10px;
+  
+}
+
+.side-articles {
+    
+    float: right;
+    width: 150px;
+    position: relative;
+    bottom:85px;
+    left: 8px;
+    
+}
+
+.article-side-image-2 {
+    
+    float: left;
+    position: relative;
+    top: -85px;
+    right: 25px;
+}
+
+.side-articles-2 {
+    
+    float: right;
+    width: 150px;
+    position: relative;
+    bottom:150px;
+    left: 8px;
+    
+}
+
+ .tech-2 {
+
+     font-size: 13px;
+     float: left;
+     color: #BB1919;
+     position: relative;
+     bottom: 22px;
+     left: 10px;
+}
+
+.article-side-image-3 {
+    
+    float: left;
+    position: relative;
+    bottom: 175px;
+    right: 25px;
+}
+
+.side-articles-3 {
+    
+    float: right;
+    width: 150px;
+    position: relative;
+    bottom:240px;
+    left: 8px;
+    
+}
+
+
+
+
+
+/* Sidebar Area Ends */
+
+
+
+
+
+
+         
+            
